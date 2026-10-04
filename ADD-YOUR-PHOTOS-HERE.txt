@@ -1,0 +1,2 @@
+Place first-chat.jpg and photo1.jpg, photo2.jpg, photo3.jpg here.
+If your files have other names or extensions, update config.js to match.
